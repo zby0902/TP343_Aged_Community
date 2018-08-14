@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgedCareApp", "AgedCareApp\AgedCareApp.csproj", "{A40661DC-D6E3-450C-A3E8-AD952769D55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40661DC-D6E3-450C-A3E8-AD952769D55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40661DC-D6E3-450C-A3E8-AD952769D55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40661DC-D6E3-450C-A3E8-AD952769D55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40661DC-D6E3-450C-A3E8-AD952769D55F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
